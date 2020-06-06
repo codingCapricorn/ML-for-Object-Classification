@@ -1,5 +1,5 @@
 # ML-for-Object-Classification
-Python and ML
+Python and ML For Whiskies Classification Using Flavours
 
 
 OBJECT | Scotch Whisky 
