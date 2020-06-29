@@ -1,5 +1,5 @@
 # ML-for-Object-Classification
-ML For Whiskies Classification Using Flavours
+Machine L For Whiskies Classification Using Flavours
 
 
 OBJECT | Scotch Whisky 
