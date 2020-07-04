@@ -15,8 +15,9 @@ The dataset we'll be using consists of tasting ratings of one readily available 
 
 
 Repository contains following modules ::::
-1.Loding and inspecting whiskies data
-2.Exploring Correlations
-3.Clustering Whiskies By Flavours
-4.Whiskies Comparing Correlation
+   
+    1.Loding and inspecting whiskies data
+    2.Exploring Correlations  
+    3.Clustering Whiskies By Flavours
+    4.Whiskies Comparing Correlation
 
