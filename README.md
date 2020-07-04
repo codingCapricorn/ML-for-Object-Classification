@@ -20,5 +20,3 @@ Repository is divided as :
 3.Clustering Whiskies By Flavours
 4.Whiskies Comparing Correlation
 
-
- requests are 
