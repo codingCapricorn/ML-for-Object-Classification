@@ -14,7 +14,7 @@ Dependencies: Pandas, NumPy, and scikit-learn, and perhaps of scotch whisky.
 The dataset we'll be using consists of tasting ratings of one readily available single malt scotch whisky from almost every active whisky distillery in Scotland.The resulting dataset has 86 malt whiskies that are scored between 0 and 4 in 12 different taste categories.The scores have been aggregated from 10 different tasters.The taste categories describe whether the whiskies are sweet, smoky,medicinal, spicy, and so on.
 
 
-Repository contains following parts :
+Repository contains following modules ::::
 1.Loding and inspecting whiskies data
 2.Exploring Correlations
 3.Clustering Whiskies By Flavours
