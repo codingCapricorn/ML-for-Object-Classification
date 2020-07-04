@@ -21,4 +21,4 @@ Repository is divided as :
 4.Whiskies Comparing Correlation
 
 
-Pull requests are 
+ requests are 
