@@ -23,6 +23,7 @@ Repository contains following modules ::::
     -->> 2.Exploring Correlations  
     
     -->> 3.Clustering Whiskies By Flavours
+    
     -->> 4.Whiskies Comparing Correlation
 
 #
