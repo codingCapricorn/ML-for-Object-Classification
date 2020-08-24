@@ -17,7 +17,7 @@ The dataset we'll be using consists of tasting ratings of one readily available 
 
 #
 
-#### The Repository consis following modules ::::
+#### The Repository consist following modules ::::
    
     -->> 1.Loding and inspecting whiskies data
     
